@@ -1,0 +1,14 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+    margin: auto;
+    padding: 10px, 15x, 20px,;
+    width: 285px;
+    height: 100vh;
+    }
+
+  img{
+    margin: 15px;
+    width: 250px;
+    height: 250px;
+    border-radius: 15px;
+  }
